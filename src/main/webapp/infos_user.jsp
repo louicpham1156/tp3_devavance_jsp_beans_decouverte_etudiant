@@ -23,8 +23,8 @@
         <div class="info_user">
             <p>username : <jsp:getProperty name="user1" property="userName"/></p>
             <p>password : <jsp:getProperty name="user1" property="password"/></p>
-            <p>username : <jsp:getProperty name="user1" property="profil"/></p>
-            <p>password : <jsp:getProperty name="user1" property="auth"/></p>
+            <p>profil : <jsp:getProperty name="user1" property="profil"/></p>
+            <p>auth : <jsp:getProperty name="user1" property="auth"/></p>
         </div>
      
         <div class="credentials">
